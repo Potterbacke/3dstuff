@@ -1,2 +1,3 @@
 # 3dstuff
-Tinkering with Three JS
+Tinkering with Three.js
+
